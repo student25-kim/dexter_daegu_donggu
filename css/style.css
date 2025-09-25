@@ -304,7 +304,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #f7444e;
+  color: #000000;
 }
 
 .slider_section .img-box img {
@@ -476,14 +476,14 @@ a:focus {
 }
 
 .product_section .options .option1 {
-  background-color: #f7444e;
-  border: 1px solid #f7444e;
+  background-color: #000000;
+  border: 1px solid #000000;
   color: #ffffff;
 }
 
 .product_section .options .option1:hover {
   background-color: transparent;
-  color: #f7444e;
+  color: #000000;
 }
 
 .product_section .options .option2 {
@@ -510,8 +510,8 @@ a:focus {
 .product_section .btn-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #f7444e;
-  border: 1px solid #f7444e;
+  background-color: #000000;
+  border: 1px solid #000000;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -520,7 +520,7 @@ a:focus {
 
 .product_section .btn-box a:hover {
   background-color: transparent;
-  color: #f7444e;
+  color: #000000;
 }
 
 .arrival_section .heading_container {
@@ -554,8 +554,8 @@ a:focus {
 .arrival_section a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f7444e;
-  border: 1px solid #f7444e;
+  background-color: #000000;
+  border: 1px solid #000000;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -564,7 +564,7 @@ a:focus {
 
 .arrival_section a:hover {
   background-color: transparent;
-  color: #f7444e;
+  color: #000000;
 }
 
 .why_section .box {
@@ -659,8 +659,8 @@ a:focus {
 .subscribe_section .subscribe_form form button {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f7444e;
-  border: 1px solid #f7444e;
+  background-color: #000000;
+  border: 1px solid #000000;
   color: #ffffff;
   border-radius: 35px;
   -webkit-transition: all 0.3s;
@@ -674,7 +674,7 @@ a:focus {
 
 .subscribe_section .subscribe_form form button:hover {
   background-color: transparent;
-  color: #f7444e;
+  color: #000000;
 }
 
 .client_section .box {
@@ -836,7 +836,7 @@ a:focus {
 }
 
 .footer_section .footer_contact .contact_link_box a:hover {
-  color: #f7444e;
+  color: #000000;
 }
 
 .footer_section .footer-logo {
@@ -956,11 +956,11 @@ li.nav-item ul li a {
 }
 
 li.nav-item ul li a:hover, li.nav-item ul li a:focus {
-    color: #f7444e;
+    color: #000000;
 }
 
 .inner_page_head {
-    background: #f7444e;
+    background: #000000;
     text-align: center;
     color: #fff;
     padding-top: 50px;
@@ -1044,7 +1044,7 @@ div.form_sub .field input[type="email"], div.form_sub .field input[type="email"]
 .form_sub input[type="email"] + input[type="submit"] {
     position: absolute;
     right: 0;
-    background: #f7444e;
+    background: #000000;
     color: #fff;
     border: none;
     top: 0px;
@@ -1094,7 +1094,7 @@ form input[type="submit"] {
 
 form input[type="submit"]:hover,
 form input[type="submit"]:focus {
-    background: #f7444e;
+    background: #000000;
     color: #fff;
 }
 
@@ -1115,7 +1115,7 @@ form input[type="submit"]:focus {
 
 .cpy_ p a {
     margin: 0;
-    color: #f7444e;
+    color: #000000;
     font-size: 15px;
     font-weight: 400;
 }
