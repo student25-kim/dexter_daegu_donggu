@@ -292,8 +292,8 @@ a:focus {
 .slider_section .detail-box a {
     display: inline-block;
     padding: 12px 45px;
-    background-color: #6c757d;
-    border: 1px solid #6c757d;
+    background-color: #000000;
+    border: 1px solid #000000;
     color: #ffffff;
     border-radius: 0;
     -webkit-transition: all 0.3s;
@@ -334,7 +334,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #f7444e;
+  background-color: #000000;
 }
 
 .slider_bg_box {
